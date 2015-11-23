@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FORE1GN BODY]]></title>
+        <description><![CDATA[FORE1GN BODY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 05:21:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fore1gn Body | 11.20.15]]></title>
+            <description><![CDATA[<article><h1>Fore1gn Body | 11.20.15</h1><p>"Fore1gn Body | 11.20.15"</p><img src="https://scontent.cdninstagram.com/hphotos-xap1/t51.2885-15/s640x640/sh0.08/e35/11909241_1197270333632859_1681566204_n.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/-Va-J-ySn9/?taken-by=hearnebraska</link>
+            <guid isPermaLink="false">d549ad8d-7524-4f94-a731-f87ba87aa047</guid>
+            <pubDate>Mon, 23 Nov 2015 05:20:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
