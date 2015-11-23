@@ -1,0 +1,28 @@
+name: FORE1GN BODY
+favicon: null
+layout_spectrum: 0.5392315429635346
+typography_spectrum: 0.18643429968506098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8443327944260091
+  lightness: 0.9045623536221683
+  saturation: 0.16343028517439961
+  rhythmicContrast: 0.5495459523517638
+purpose: []
