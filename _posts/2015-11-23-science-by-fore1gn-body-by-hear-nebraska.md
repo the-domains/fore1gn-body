@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: "Hear Nebraska is a nonprofit cultural organization that cultivates the state's vibrant, fertile music and arts community. By providing resources and a voice for bands, artists and members of Nebraska'"
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/hearnebraska/science-by-fore1gn-body'
 title: '"Science" by Fore1gn Body by Hear Nebraska'
-datePublished: '2015-11-23T06:08:54.248Z'
-dateModified: '2015-11-23T06:08:17.763Z'
+datePublished: '2015-11-25T04:10:50.926Z'
+dateModified: '2015-11-23T06:09:04.937Z'
 sourcePath: _posts/2015-11-23-science-by-fore1gn-body-by-hear-nebraska.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
